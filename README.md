@@ -1,3 +1,3 @@
 # travel
 
-Aplicacion para recerbar una abitacion hecha con astro y tailwind
+Application to reserve a room made with astro and tailwind
